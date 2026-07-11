@@ -1,14 +1,16 @@
 # MERN Stack - Learning Repository
 
-A learning repository for the MERN stack -- MongoDB, Express.js, React, and Node.js. Features a full-stack E-Commerce application demonstrating real-world MERN development patterns.
+A learning repository for the MERN stack -- MongoDB, Express.js, React, and Node.js. The planned centerpiece project is a full-stack E-Commerce application demonstrating real-world MERN development patterns.
+
+**Status: Planned — no code has been added yet.** The sections below describe the intended scope; this README will be updated once the project actually exists in this repo.
 
 ---
 
-## Contents
+## Planned Contents
 
 | Folder | Description | Key Concepts |
 |--------|-------------|--------------|
-| `E-Commarce/` | Full-stack E-Commerce application | Product catalog, user management, shopping cart, order processing, MongoDB integration, Express API, React frontend |
+| `e-commerce/` | Full-stack E-Commerce application | Product catalog, user management, shopping cart, order processing, MongoDB integration, Express API, React frontend |
 
 ---
 
@@ -25,9 +27,9 @@ The MERN stack provides a complete JavaScript solution for building dynamic web 
 
 ---
 
-## E-Commerce Project
+## E-Commerce Project (Planned)
 
-The E-Commerce application is the primary project in this repository, demonstrating:
+Once built, the E-Commerce application will demonstrate:
 
 - Product listing and detail views
 - User authentication and authorization
@@ -48,7 +50,7 @@ The E-Commerce application is the primary project in this repository, demonstrat
 
 ---
 
-## How to Use
+## Getting Started (once implemented)
 
 1. Clone this repository:
    ```bash
@@ -58,7 +60,7 @@ The E-Commerce application is the primary project in this repository, demonstrat
 
 2. Set up the E-Commerce project:
    ```bash
-   cd E-Commarce
+   cd e-commerce
 
    # Install backend dependencies
    npm install
@@ -72,6 +74,13 @@ The E-Commerce application is the primary project in this repository, demonstrat
    ```
 
 3. Configure environment variables for MongoDB connection, JWT secrets, and other settings as needed.
+
+---
+
+## Related Repos
+
+- [E-Commerce_Website](../E-Commerce_Website) — a separate planned e-commerce site (stack not yet decided)
+- [MEAN](../MEAN) — MongoDB/Express/Angular/Node learning repo
 
 ---
 
