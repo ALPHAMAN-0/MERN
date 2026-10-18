@@ -2,6 +2,18 @@
 
 A learning repository for the MERN stack -- MongoDB, Express.js, React, and Node.js. The planned centerpiece project is a full-stack E-Commerce application demonstrating real-world MERN development patterns.
 
+## Architecture / How it Works
+
+```mermaid
+flowchart LR
+    A[User] --> B[MERN]
+    B --> C{Logic}
+    C --> D[(Data)]
+    C --> E[Output]
+    D --> C
+```
+
+
 **Status: Planned — no code has been added yet.** The sections below describe the intended scope; this README will be updated once the project actually exists in this repo.
 
 ---
