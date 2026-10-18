@@ -5,12 +5,8 @@ A learning repository for the MERN stack -- MongoDB, Express.js, React, and Node
 ## Architecture / How it Works
 
 ```mermaid
-flowchart LR
-    A[User] --> B[MERN]
-    B --> C{Logic}
-    C --> D[(Data)]
-    C --> E[Output]
-    D --> C
+flowchart TD
+    Planned_Repository["Planned_Repository (empty — no components yet)"]
 ```
 
 
